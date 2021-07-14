@@ -2,9 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Downloading and installing Node.js
 
-In the project directory, you can run:
+Install the latest "Long Term Support (LTS)" version of Node.js (currently version 14.16.1). It can be downloaded from the URL https://nodejs.org/en/download. To verify you have Node.js and its package manager (npm), in your terminal, run these commands:
+`node -v`
+and:
+`npm -v`
+which should run and print out the version numbers of your node and npm programs.
+
+## Available Scripts
 
 ### `npm install`
 Installs the node modules and any independencies.
