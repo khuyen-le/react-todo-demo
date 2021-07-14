@@ -4,10 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Downloading and installing Node.js
 
-Install the latest "Long Term Support (LTS)" version of Node.js (currently version 14.16.1). It can be downloaded from the URL https://nodejs.org/en/download. To verify you have Node.js and its package manager (npm), in your terminal, run these commands:
+Install the latest "Long Term Support (LTS)" version of Node.js (currently version 14.17.3). It can be downloaded from the URL https://nodejs.org/en/download. 
+
+To verify you have Node.js and its package manager (npm), in your terminal, run these commands:
+
 `node -v`
+
 and:
+
 `npm -v`
+
 which should run and print out the version numbers of your node and npm programs.
 
 ## Available Scripts
